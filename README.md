@@ -4,8 +4,8 @@
 
 | Class |        Date         |               Topics                |
 |:-----:|:-------------------:|:-----------------------------------:|
-|   1   |  Thursday, April 26 | [Perceptrons]                       |
-|   2   |   Tuesday, May 1    | [Activation Functions]              |
+|   1   |  Thursday, April 26 | *Perceptrons*                      |
+|   2   |   Tuesday, May 1    | *Activation Functions*              |
 |   3   |  Thursday, May 3    | *Multilayer Perceptrons*            |
 |   4   |   Tuesday, May 8    | *Training Problems & Solutions*     |
 |   5   |  Thursday, May 10   | *End-to-End Data Science Process*   |
